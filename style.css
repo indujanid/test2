@@ -1,11 +1,8 @@
-.bg {
-  background: #2d2d30;
-  color: #bdbdbd;
-}
 
-.bg h3 {color: #fff;}
-
-.bg p {font-style: italic;}
+background: #2d2d30;
+color: #bdbdbd;
+h3 {color: #fff;}
+p {font-style: italic;}
 
 .navbar {
   margin-bottom: 0;
