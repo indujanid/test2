@@ -2,10 +2,7 @@ body {
   background-color: #2d2d30;
   color: #bdbdbd;
 }
-h3 {
-  color: #fff;
-  font-style: italic; 
-}
+h3 {color: #fff;}
 p {font-style: italic;}
 
 .navbar {
